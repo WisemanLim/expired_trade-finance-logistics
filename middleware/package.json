@@ -4,7 +4,7 @@
   "description": "Trade Use Case",
   "main": "app.js",
   "dependencies": {
-    "fabric-ca-client": "~1.1.0",
+    "fabric-ca-client": "~1.4.20",
     "fabric-client": "~1.1.0",
     "fs-extra": "^2.0.0",
     "jsrsasign": "6.2.2",
